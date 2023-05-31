@@ -15,7 +15,7 @@
                     <li><a href="index.php">Home</a></li>
                     <li><a href="">Category</a>
                         <ul class="dropdown">
-                            <li><a href="<?php echo "kategori.php?kategori=stroller" ?>">Tenda</a></li>
+                            <li><a href="<?php echo "kategori.php?kategori=stroller" ?>">Tendaa</a></li>
                             <li><a href="<?php echo "kategori.php?kategori=babybox" ?>">Memasak</a></li>
                             <li><a href="<?php echo "kategori.php?kategori=babybathtub" ?>">Pencahayaan</a></li>
                             <li><a href="<?php echo "kategori.php?kategori=toys" ?>">Makanan</a></li>
